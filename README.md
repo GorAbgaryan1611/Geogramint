@@ -135,7 +135,8 @@ More details in the [Wiki](https://github.com/Alb-310/Geogramint/wiki/Demonstrat
 
 More details in the [Wiki](https://github.com/Alb-310/Geogramint/wiki/Demonstration:-CLI).
   
-## 📖 Wiki
+## 📖
+ Wiki
 
 Remember to check the [Wiki](https://github.com/Alb-310/Geogramint/wiki) before posting an issue or asking a question.
 
